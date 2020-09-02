@@ -1,6 +1,5 @@
 const commando = require('discord.js-commando');
 const Discord = require('discord.js');
-const figlet = require('figlet');
 
 module.exports = class AvatarCommand extends commando.Command {
     constructor(client) {
