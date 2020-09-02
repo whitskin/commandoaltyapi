@@ -11,7 +11,7 @@ client.registry
         ['genel', 'Genel komutlar'],
     ])
     .registerDefaults()
-    .registerCommandsIn(path.join(__dirname, 'commands'));
+    .registerCommandsIn(path.join(__dirname, 'komutlar'));
     
     const sqlite = require('sqlite');
 
