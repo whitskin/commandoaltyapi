@@ -6,7 +6,7 @@ module.exports = class AvatarCommand extends commando.Command {
         super(client, {
             name: 'yaz',
             aliases: ['yazdır', 'konus'],
-            group: 'eglence',
+            group: 'genel',
             memberName: 'yaz',
             description: 'Bota istediğiniz yazdırır.',
             guildOnly: true,
