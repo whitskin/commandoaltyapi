@@ -20,4 +20,4 @@ client.setProvider(
 ).catch(console.error);
 
 
-client.login('NzAwNjA4NzAyNDI3OTU1Mjcw.Xplasw.e3U7seibaSc-D23NLFDjKIlgjFg');
+client.login('token');
